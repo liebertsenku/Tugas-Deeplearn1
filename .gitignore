@@ -1,0 +1,16 @@
+# Dataset directories (auto-downloaded by torchvision/script)
+data/
+data_fmnist/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS specific
+.DS_Store
+Thumbs.db
