@@ -110,7 +110,7 @@ Jika formulir Anda meminta pengisian khusus untuk model **RNN** atau **GRU** (pe
 ---
 
 ## 📂 Link Lampiran Kode & File:
-* **Notebook Colab / GitHub:** `[Cantumkan link Google Drive / GitHub Anda jika diminta]`
+* **Link Repositori GitHub:** `https://github.com/liebertsenku/Tugas-Deeplearn1`
 * **File Proyek yang Disertakan:**
   * `notebook_cnn_transfer_learning.ipynb` (Jupyter Notebook Lengkap Vision)
   * `notebook_rnn_gru_sentiment.ipynb` (Jupyter Notebook Lengkap NLP/RNN)
